@@ -1,0 +1,17 @@
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\bin\Debug\DigitalDiary.exe.config
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\bin\Debug\DigitalDiary.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\bin\Debug\DigitalDiary.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.CreateEvent.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.DeleteEvent.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.DiaryHomepage.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.EventViewWindow.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.Registration.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.LogIn.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.Properties.Resources.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.UpdateEvent.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.UserProfiles.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.csproj.GenerateResource.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.csproj.CoreCompileInputs.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Final Term Assignment\DigitalDiary\DigitalDiary\obj\Debug\DigitalDiary.csprojAssemblyReference.cache
